@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+<key>CFBundleExecutable</key><string>SoundOff</string>
+<key>CFBundleIdentifier</key><string>io.github.frankravizza.SoundOff</string>
+<key>CFBundleName</key><string>SoundOff</string>
+<key>CFBundleDisplayName</key><string>SoundOff</string>
+<key>CFBundlePackageType</key><string>APPL</string>
+<key>CFBundleShortVersionString</key><string>0.1.0</string>
+<key>CFBundleVersion</key><string>1</string>
+<key>LSMinimumSystemVersion</key><string>15.0</string>
+<key>NSMicrophoneUsageDescription</key><string>SoundOff processes your selected microphone locally and sends it to BlackHole 2ch for calls. It does not record or upload audio.</string>
+<key>NSHighResolutionCapable</key><true/>
+</dict></plist>
